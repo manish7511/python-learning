@@ -7,6 +7,7 @@ for i in a:
     sum=sum+i
 print("sum of array is",sum)
 
+#  2nd approach
 
 from array import *
 def sumarr(a):
