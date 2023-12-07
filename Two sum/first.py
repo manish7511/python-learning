@@ -10,8 +10,8 @@ def twosum(numbers,target):
             left=left+1
         else:
             right=right-1
-numbers=[3,4,5,6,7,8]
-target=10
+numbers=[3,2,4,5]
+target=9
 result=twosum(numbers,target)
 print(result)
 
